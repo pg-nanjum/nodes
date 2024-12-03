@@ -5,4 +5,4 @@
     "ssh-key-storage-path": "keys/id_rsa",
     "username": "rundeck",
     "tags": ""
-  },
+}
