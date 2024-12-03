@@ -1,10 +1,10 @@
 {
-  "nodes": [
-    {
-      "nodename": "node1",
-      "hostname": "172.31.8.194",
-      "osFamily": "unix",
-      "osName": "Linux"
-    }
-  ]
+  "node1": {
+    "nodename": "node1",
+    "hostname": "172.31.8.194",
+    "ssh-key-storage-path": "keys/id_rsa",
+    "username": "rundeck",
+    "tags": ""
+  }
 }
+
