@@ -6,11 +6,4 @@
     "username": "rundeck",
     "tags": ""
   },
-  "node2": {
-    "nodename": "node2",
-    "hostname": "172.31.9.195",
-    "ssh-key-storage-path": "keys/id_rsa",
-    "username": "rundeck",
-    "tags": ""
-  }
 }
