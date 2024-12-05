@@ -7,7 +7,7 @@
     "tags": ""
   },
   "node2": {
-    "nodename": "node1",
+    "nodename": "node2",
     "hostname": "172.30.8.195",
     "ssh-key-storage-path": "keys/id_rsa",
     "username": "rundeck",
