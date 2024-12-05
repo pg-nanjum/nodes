@@ -8,7 +8,7 @@
   },
   "node2": {
     "nodename": "node1",
-    "hostname": "172.31.8.195",
+    "hostname": "172.30.8.195",
     "ssh-key-storage-path": "keys/id_rsa",
     "username": "rundeck",
     "tags": ""
