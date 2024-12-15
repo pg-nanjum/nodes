@@ -1,0 +1,16 @@
+{
+  "node3": {
+    "nodename": "node3",
+    "hostname": "172.31.8.197",
+    "ssh-key-storage-path": "keys/id_rsa",
+    "username": "rundeck",
+    "tags": ""
+  },
+  "node4": {
+    "nodename": "node4",
+    "hostname": "172.30.8.199",
+    "ssh-key-storage-path": "keys/id_rsa",
+    "username": "rundeck",
+    "tags": ""
+  }
+}
