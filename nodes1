@@ -5,5 +5,12 @@
     "ssh-key-storage-path": "keys/id_rsa",
     "username": "rundeck",
     "tags": ""
+  },
+  "node4": {
+    "nodename": "node4",
+    "hostname": "172.30.8.199",
+    "ssh-key-storage-path": "keys/id_rsa",
+    "username": "rundeck",
+    "tags": ""
   }
 }
